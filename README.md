@@ -4,7 +4,7 @@
 💞️ I’m looking to collaborate on open-source projects and innovative web applications.  
 📫 How to reach me: [majkelkovalsky@gmail.com] | [  ]  
 🔹 Pronouns: He/Him  
-⚡ Fun fact: I have a passion for automotive technology and photography.  
+⚡ Fun fact: I have a passion for cryptocurrency market, blockchain technology and gaming .  
 
 
 <!---
