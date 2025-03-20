@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m Michał Kowalski (@Arboly)  
-👀 I’m interested in web development, software engineering, and emerging technologies.  
+👀 I’m interested in the cryptocurrency market, blockchain technology, and gaming, as well as software engineering.  
 🌱 I’m currently learning SQL, React, and backend development.  
 💞️ I’m looking to collaborate on open-source projects and innovative web applications.  
 📫 How to reach me: [majkelkovalsky@gmail.com] | [https://www.linkedin.com/in/michał-kowalski-55526b237/]  
